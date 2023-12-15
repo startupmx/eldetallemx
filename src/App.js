@@ -3,6 +3,7 @@ import logo from './assets/1.jpg'
 import logo2 from './assets/2.jpg'
 import logo3 from './assets/3.jpg'
 
+//App
 function App() {
   return (
     <div className="App">
