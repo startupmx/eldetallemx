@@ -1,7 +1,7 @@
 import './App.css';
-import logo from './assets/1.jpg'
-import logo2 from './assets/2.jpg'
-import logo3 from './assets/3.jpg'
+import logo from './assets/11.jpg'
+import logo2 from './assets/12.jpg'
+import logo3 from './assets/13.jpg'
 
 //App
 function App() {
